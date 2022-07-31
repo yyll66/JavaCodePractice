@@ -7,6 +7,9 @@ public class Demo01 {
         System.out.println(new Demo01().sayHello());
         Student.answer();
         new Student().say();
+
+        B b = new B();
+        b.doSomeThing();
     }
     public String sayHello(){
         return "Hello";
@@ -19,5 +22,7 @@ public class Demo01 {
     public void readFile(String file) throws IOException{
 
     }
+
+
 
 }

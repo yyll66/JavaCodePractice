@@ -1,0 +1,2 @@
+# JavaCodePractice
+Record learning java
