@@ -1,2 +1,0 @@
-# JavaCodePractice
-Record learning java
